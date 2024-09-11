@@ -3,7 +3,7 @@
 ![screenshot.png](screenshot.png) <br /> <br /> <br />
 
 
-<h1>🐣 Please follow me for new updates</h1> <br /> 
+<h1>🐣 Please follow me for new updates</h1> 
 Discord - [https://discord.gg/ES9nXE8z](https://discord.gg/ES9nXE8z) <br />
 X - [https://twitter.com/TheLocalLab_](https://x.com/TheLocalLab_) <br />
 Youtube - [https://www.youtube.com/@TheLocalLab](https://www.youtube.com/@TheLocalLab) <br />
