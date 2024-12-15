@@ -21,7 +21,7 @@ Patreon - (https://www.patreon.com/TheLocalLab)<br /> <br /> <br />
 | [![Watch the video](https://img.youtube.com/vi/yvXOKHeZtgs/hqdefault.jpg)](https://youtu.be/yvXOKHeZtgs) |
 
 
-If you encounter any issues or have questions specific to the colab, feel free to reach out on [discord](https://discord.gg/ES9nXE8z), and I'll do my best to assist you.
+If you encounter any issues or have questions specific to the colab, feel free to reach out on [discord](https://discord.gg/5hmB4N4JFc), and I'll do my best to assist you.
 
 ## Credit
 [Cocktailpeanut GitHub](https://github.com/cocktailpeanut/fluxgym)
